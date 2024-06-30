@@ -10,7 +10,7 @@
     "avalynx/avalynx-loader": "*",
     "avalynx/avalynx-modal": "*",
     "avalynx/avalynx-ref": "*",
-    "avalynx/avalynx-select:" : "*",
+    "avalynx/avalynx-select": "*",
     "avalynx/avalynx-table": "*"
   }
 }
