@@ -1,4 +1,4 @@
-# jbs-newmedia/avalynx-web-pack
+# jbsnewmedia/avalynx-web-pack
 
 An enhanced web application package built on top of the Symfony default skeleton.
 
