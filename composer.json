@@ -1,5 +1,5 @@
 {
-  "name": "jbs-newmedia/avalynx-web-pack",
+  "name": "jbsnewmedia/avalynx-web-pack",
   "type": "symfony-pack",
   "license": "MIT",
   "description": "An enhanced web application package built on top of the Symfony default skeleton.",
